@@ -125,9 +125,13 @@ body {
 }
 
 .time {
+  margin-top:2rem;
   font-size: 45px;
+  margin-bottom:0px !important;
 }
 .ampm{
+  margin-top:2rem;
+  margin-bottom:0px !important;
   font-size: 25px;
   color:#00FF28;
   font-family:"Roboto";
